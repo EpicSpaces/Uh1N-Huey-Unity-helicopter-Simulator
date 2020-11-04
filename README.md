@@ -5,10 +5,10 @@ this is a basic huey simulator
 Controlls
 
 Z/S ==> throttle UP/DOWN <br/>
-Arrow Keys ==> Roll/Pitch
-Q/D ==> YAW
-C ==> Change Camera View
-Mouse Click + Drag ==> View Look
+Arrow Keys ==> Roll/Pitch <br/>
+Q/D ==> YAW <br/>
+C ==> Change Camera View <br/>
+Mouse Click + Drag ==> View Look <br/>
 
 Have Fun !
 
