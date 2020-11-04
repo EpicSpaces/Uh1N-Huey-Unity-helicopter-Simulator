@@ -11,3 +11,5 @@ C ==> Change Camera View
 Mouse Click + Drag ==> View Look
 
 Have Fun !
+
+![Alt text](huey.gif?raw=true "pic")
