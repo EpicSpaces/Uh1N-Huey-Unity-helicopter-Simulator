@@ -4,7 +4,7 @@ this is a basic huey simulator
 
 Controlls
 
-Z/S ==> throttle UP/DOWN
+Z/S ==> throttle UP/DOWN <br/>
 Arrow Keys ==> Roll/Pitch
 Q/D ==> YAW
 C ==> Change Camera View
