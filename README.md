@@ -1,6 +1,6 @@
 # Uh1N-Huey-Unity-helicopter-Simulator
 
-this is a basic huey simulator
+this is a basic UH1N uey simulator
 
 Controlls
 
